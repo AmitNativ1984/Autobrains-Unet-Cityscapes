@@ -31,6 +31,7 @@
 		"ms-python.python",
 		"yzhang.markdown-all-in-one",
 		"mhutchie.git-graph",
-        "ms-toolsai.jupyter"
+		"ms-toolsai.jupyter",
+		"GitHub.copilot"
 	],
 }
